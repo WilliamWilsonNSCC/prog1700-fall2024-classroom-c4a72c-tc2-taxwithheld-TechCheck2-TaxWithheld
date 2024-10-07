@@ -39,5 +39,5 @@ def main():
 
     print("Provincial Tax Withheld: ${0:.2f} \nFederal Tax Withheld: ${1:.2f} \nDependent Deducted from {2} dependents: ${3:.2f} \nTotal Withheld: ${4:.2f} \nTotal Pay Deposited: ${5:.2f}".format(provincialTax, federalTax, dependentsCollected, totalDependents, totalWithheld, totalTakeaway))
     # YOUR CODE ENDS HERE
-
+    
 main()
